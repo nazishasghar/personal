@@ -1,0 +1,47 @@
+.business_container{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: flex;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+.business_container_one{
+    max-width: 50%;  margin-left: 20%;
+}
+.business_container_two{
+  margin: 0 18% 0 0;
+  max-width: 50%;
+}
+.business_title{
+    width: fit-content;
+    margin: 0;
+    font-weight: bold;
+    font-size: 55px;
+}
+.business_detail{
+    margin: 5% 0 0 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #8491a0;
+}
+.business_container_button{
+  color: white;
+  font-weight: bold;
+  display: block;
+  text-align: center;
+  margin: 5% 0 5% 12%;
+  width: 87%;
+  padding: 25px;
+  background-color: #5221e6;
+  text-decoration: none;
+}
+.anime-image {
+  height: 640px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+ background-image: url(anime.jpg);
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

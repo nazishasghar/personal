@@ -1,0 +1,66 @@
+.experience_container{
+    margin: 10% 0 5% 5%;
+}
+.experience_title{
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.experience_title2{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    line-height: 110%;
+}
+.experience_collection{
+    animation: slideFromLeft 0.8s ease-in-out forwards;
+    display: flex;
+   margin-top: 5%;
+}
+.experience_number{
+    margin: 0;
+    color: grey;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 110px;
+}
+.experience_name{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.experience_item1{
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+opacity: 1;
+transform-style: preserve-3d;
+    margin-top: 0;
+}
+.experience_item2{
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+opacity: 1;
+transform-style: preserve-3d;
+    margin-left: 10%;
+    margin-top: 0;
+}
+.experience_item3{
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+opacity: 1;
+transform-style: preserve-3d;
+    margin-left: 5%;
+    margin-top: 0;
+}
+.experience_place{
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.experience_details{
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}

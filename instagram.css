@@ -1,0 +1,36 @@
+.instagram-container{
+    width: 100%;
+    display: flex;
+    background-color: #fbe4ff;
+}
+.instagram-main-container{
+    margin: 5% 0 4% 0;
+}
+.image_container{
+    width: 50%;
+    height: 640px;
+    display: block;
+    background-position: 0% 20%;
+   background-image: url(image.jpeg);
+background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.animated-link-button:any-link{
+    cursor: auto;
+}
+.animated-link-button {
+    background-color: transparent;
+    display: inline-block;
+    border-bottom: 1px solid #5b6876;
+    -webkit-transition: color 350ms cubic-bezier(.165, .84, .44, 1), padding 350ms cubic-bezier(.165, .84, .44, 1), background-color 350ms cubic-bezier(.165, .84, .44, 1);
+    transition: color 350ms cubic-bezier(.165, .84, .44, 1), padding 350ms cubic-bezier(.165, .84, .44, 1), background-color 350ms cubic-bezier(.165, .84, .44, 1);
+    color: #181823;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    margin: 10% 0 3% 15%;
+    }
+    .instagram-container-one{
+        width: 50%;
+    }

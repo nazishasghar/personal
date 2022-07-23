@@ -1,0 +1,39 @@
+.skillset_container{
+    display: flex;
+    margin: 5% 0 0 5%;
+}
+.skillset_title{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+.skillset_detail{
+    color: gray;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 22px;
+}
+.skillset_collection{
+width: 50%;
+}
+.skill_name{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.skill_detail{
+    color: grey;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 22px;
+}
+.container_one{
+    width: 45%;
+    margin-right: 5%;
+}
+.main_collection{
+    display: flex;
+    width: 70%;
+}
