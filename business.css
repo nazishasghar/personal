@@ -41,7 +41,7 @@
   border-bottom-right-radius: 8px;
  background-image: url(anime.jpg);
   background-position: 50% 50%;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
