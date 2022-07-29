@@ -5,11 +5,12 @@
 .projects_intro_name{
     color: gray;
     font-family: sans-serif;
+    font-size: 1.5vw;
 }
 .projects_intro_detail{
     color: white;
     font-family: sans-serif;
-    font-size: 50px;
+    font-size: 3.5vw;
 }
 .project_container_one{
     width: 50%;
@@ -34,7 +35,7 @@
     color: white;
     margin: 5% 10% 0 3%;
     font-family: sans-serif;
-    font-size: 23px;
+    font-size: 2vw;
     font-weight: bold;
     line-height: 110%;
 }
@@ -42,7 +43,7 @@
     color: white;
     margin: 5% 10% 0 3%;
     font-family: sans-serif;
-    font-size: 17px;
+    font-size: 1.5vw;
     padding-bottom: 20px;  
     line-height: 150%;  
 }
@@ -56,7 +57,7 @@
 }
 .project_button{
     display: inline-block;
-    font-size: 14px;
+    font-size: 1.5vw;
     color: white;
     justify-content: center;
     text-align: center;

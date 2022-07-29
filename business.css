@@ -16,11 +16,11 @@
     width: fit-content;
     margin: 0;
     font-weight: bold;
-    font-size: 55px;
+    font-size: 6vw;
 }
 .business_detail{
     margin: 5% 0 0 0;
-  font-size: 16px;
+  font-size: 2vw;
   font-weight: bold;
   color: #8491a0;
 }
@@ -29,19 +29,21 @@
   font-weight: bold;
   display: block;
   text-align: center;
-  margin: 5% 0 5% 12%;
-  width: 87%;
+  margin: 5% 0 4% 11%;
+  font-size: 1vw;
+  width: 38vw;
+  height: 3;
   padding: 25px;
   background-color: #5221e6;
   text-decoration: none;
 }
 .anime-image {
-  height: 640px;
+  height: 40vh;
+  max-width: 100vw;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
  background-image: url(anime.jpg);
-  background-position: 50% 50%;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
